@@ -14,6 +14,7 @@ Python | 3.6
 CUDA | 11.1
 PyTorch | 1.7.1
 torchvision | 0.8.2
+Pytorch Metric Learning | 0.9.96
 wxPython | 4.0.4
 OpenCV | 3.4.2
 NumPy | 1.19.2
@@ -73,6 +74,7 @@ conda activate [環境名(先ほど入力した環境名)]
 # 必要ライブラリのインストール
 # NumPyはpytorchと同時にインストールされるため個別にインストールする必要はない
 conda install pytorch torchvision cudatoolkit=11.0 -c pytorch
+conda install pytorch-metric-learning -c metric-learning -c pytorch
 conda install wxpython
 conda install opencv
 ```
