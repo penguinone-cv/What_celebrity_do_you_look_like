@@ -1,6 +1,7 @@
 # What celebrity do you look like?
 
 撮影対象がどんな有名人と顔が似ているか検出するアプリケーション<br>
+実際の実行動画は[こちら](https://youtu.be/_dLqKYHKYgU)<br>
 
 ## 実行方法
 ### 実行環境の作成
