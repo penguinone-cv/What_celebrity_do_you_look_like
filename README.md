@@ -1,3 +1,4 @@
+[学習済みモデル付き](https://drive.google.com/file/d/1CUFdYvk_RxnpfwyQs9I0syqPrEmCM8UY/view?usp=drivesdk)
 # What celebrity do you look like?
 
 撮影対象がどんな有名人と顔が似ているか検出するアプリケーション<br>
